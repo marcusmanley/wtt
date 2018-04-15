@@ -1,6 +1,6 @@
 [
  {
-   "Name": "Albert Lea Area School District",
+ "type": "Feature", "properties": { "Name": "Albert Lea Area School District",
    "Region": 1,
    "Available": "y",
    "year1": "41325",
@@ -13,9 +13,8 @@
    "SI": "y",
    "SI1": "",
    "FI": "375"
- },
- {
-   "Name": "Alden-Conger School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Alden-Conger School District",
    "Region": 1,
    "Available": "y",
    "year1": "34637",
@@ -28,9 +27,8 @@
    "SI": "NO  6516",
    "SI1": "",
    "FI": "11500"
- },
- {
-   "Name": "Austin School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Austin School District",
    "Region": 1,
    "Available": "y",
    "year1": "38880",
@@ -43,9 +41,8 @@
    "SI": "y",
    "SI1": "",
    "FI": "y"
- },
- {
-   "Name": "Blooming Prairie School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Blooming Prairie School District",
    "Region": 1,
    "Available": "y",
    "year1": "36178",
@@ -58,9 +55,8 @@
    "SI": "8100",
    "SI1": "",
    "FI": "8100"
- },
- {
-   "Name": "Byron School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Byron School District",
    "Region": 1,
    "Available": "y",
    "year1": "37770",
@@ -73,9 +69,8 @@
    "SI": "y",
    "SI1": "",
    "FI": "100"
- },
- {
-   "Name": "Caledonia School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Caledonia School District",
    "Region": 1,
    "Available": "y",
    "year1": "40395",
@@ -88,9 +83,8 @@
    "SI": "5992",
    "SI1": "12531",
    "FI": "16.342"
- },
- {
-   "Name": "Cannon Falls School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Cannon Falls School District",
    "Region": 1,
    "Available": "y",
    "year1": "37411",
@@ -103,9 +97,8 @@
    "SI": "10908",
    "SI1": "",
    "FI": "10908"
- },
- {
-   "Name": "Chatfield School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Chatfield School District",
    "Region": 1,
    "Available": "y",
    "year1": "40388",
@@ -118,9 +111,8 @@
    "SI": "4800",
    "SI1": "",
    "FI": "9300"
- },
- {
-   "Name": "Dover-Eyota School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Dover-Eyota School District",
    "Region": 1,
    "Available": "y",
    "year1": "38715",
@@ -133,9 +125,8 @@
    "SI": "5047",
    "SI1": "",
    "FI": "8521"
- },
- {
-   "Name": "Faribault School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Faribault School District",
    "Region": 1,
    "Available": "y",
    "year1": "38070",
@@ -148,9 +139,8 @@
    "SI": "15396",
    "SI1": "",
    "FI": "15396"
- },
- {
-   "Name": "Fillmore Central School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Fillmore Central School District",
    "Region": 1,
    "Available": "y",
    "year1": "38250",
@@ -163,9 +153,8 @@
    "SI": "4860",
    "SI1": "",
    "FI": "9720"
- },
- {
-   "Name": "Glenville-Emmons School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Glenville-Emmons School District",
    "Region": 1,
    "Available": "y",
    "year1": "35600",
@@ -178,9 +167,8 @@
    "SI": "y",
    "SI1": "",
    "FI": "7000+Single Rate"
- },
- {
-   "Name": "Goodhue School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Goodhue School District",
    "Region": 1,
    "Available": "y",
    "year1": "36976",
@@ -193,9 +181,8 @@
    "SI": "y",
    "SI1": "",
    "FI": "n Paid"
- },
- {
-   "Name": "Grand Meadow School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Grand Meadow School District",
    "Region": 1,
    "Available": "y",
    "year1": "36500",
@@ -208,9 +195,8 @@
    "SI": "5696.28",
    "SI1": "",
    "FI": "11537.20"
- },
- {
-   "Name": "Hayfield School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Hayfield School District",
    "Region": 1,
    "Available": "y",
    "year1": "38070",
@@ -223,9 +209,8 @@
    "SI": "7400",
    "SI1": "",
    "FI": "10700"
- },
- {
-   "Name": "Hiawatha Valley Education District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Hiawatha Valley Education District",
    "Region": 1,
    "Available": "y",
    "year1": "42252",
@@ -238,9 +223,8 @@
    "SI": "5700",
    "SI1": "",
    "FI": "13200"
- },
- {
-   "Name": "Houston School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Houston School District",
    "Region": 1,
    "Available": "y",
    "year1": "39346",
@@ -253,9 +237,8 @@
    "SI": "7200",
    "SI1": "",
    "FI": "7200"
- },
- {
-   "Name": "Kasson-Mantorville School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Kasson-Mantorville School District",
    "Region": 1,
    "Available": "n",
    "year1": "",
@@ -268,9 +251,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "Kenyon-Wanamingo School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Kenyon-Wanamingo School District",
    "Region": 1,
    "Available": "y",
    "year1": "36526",
@@ -283,9 +265,8 @@
    "SI": "8563",
    "SI1": "",
    "FI": "11140"
- },
- {
-   "Name": "Kingsland School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Kingsland School District",
    "Region": 1,
    "Available": "y",
    "year1": "37910",
@@ -298,9 +279,8 @@
    "SI": "6120",
    "SI1": "",
    "FI": "6120"
- },
- {
-   "Name": "LaCrescent-Hokah School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "LaCrescent-Hokah School District",
    "Region": 1,
    "Available": "y",
    "year1": "36155",
@@ -313,9 +293,8 @@
    "SI": "5222",
    "SI1": "8218-8996",
    "FI": "11750"
- },
- {
-   "Name": "Lake City School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Lake City School District",
    "Region": 1,
    "Available": "y",
    "year1": "35896",
@@ -328,9 +307,8 @@
    "SI": "NO 90%+1000 for HRA",
    "SI1": "",
    "FI": "NO 65%+2000 for HRA"
- },
- {
-   "Name": "Lanesboro School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Lanesboro School District",
    "Region": 1,
    "Available": "n",
    "year1": "",
@@ -343,9 +321,8 @@
    "SI": "5959",
    "SI1": "",
    "FI": "5959"
- },
- {
-   "Name": "LeRoy-Ostrander School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "LeRoy-Ostrander School District",
    "Region": 1,
    "Available": "y",
    "year1": "36994",
@@ -358,9 +335,8 @@
    "SI": "NO 95%",
    "SI1": "",
    "FI": "12600"
- },
- {
-   "Name": "Lewiston-Altura School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Lewiston-Altura School District",
    "Region": 1,
    "Available": "y",
    "year1": "39330",
@@ -373,9 +349,8 @@
    "SI": "4680",
    "SI1": "",
    "FI": "5400"
- },
- {
-   "Name": "Lyle School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Lyle School District",
    "Region": 1,
    "Available": "y",
    "year1": "34619",
@@ -388,9 +363,8 @@
    "SI": "5959.44",
    "SI1": "",
    "FI": "5959.44"
- },
- {
-   "Name": "Mabel Canton Schools ",
+  }},
+ {"type": "Feature", "properties": { "Name": "Mabel Canton Schools ",
    "Region": 1,
    "Available": "y",
    "year1": "39398",
@@ -403,9 +377,8 @@
    "SI": "850.20",
    "SI1": "",
    "FI": "1700.04"
- },
- {
-   "Name": "Medford School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Medford School District",
    "Region": 1,
    "Available": "y",
    "year1": "37218",
@@ -418,9 +391,8 @@
    "SI": "6768.60",
    "SI1": "",
    "FI": "15573.12"
- },
- {
-   "Name": "MN State Academy for the Deaf/Blind",
+  }},
+ {"type": "Feature", "properties": { "Name": "MN State Academy for the Deaf/Blind",
    "Region": 1,
    "Available": "spc",
    "year1": "22.21 per hour",
@@ -433,9 +405,8 @@
    "SI": "NO 95%",
    "SI1": "",
    "FI": "NO 85%"
- },
- {
-   "Name": "New Prague Area School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "New Prague Area School District",
    "Region": 1,
    "Available": "y",
    "year1": "37771",
@@ -448,9 +419,8 @@
    "SI": "5912",
    "SI1": "",
    "FI": "13905"
- },
- {
-   "Name": "Northfield School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Northfield School District",
    "Region": 1,
    "Available": "y",
    "year1": "39600",
@@ -463,9 +433,8 @@
    "SI": "6356.28",
    "SI1": "",
    "FI": "16170.60"
- },
- {
-   "Name": "Owatonna School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Owatonna School District",
    "Region": 1,
    "Available": "y",
    "year1": "37409",
@@ -478,9 +447,8 @@
    "SI": "y",
    "SI1": "",
    "FI": "17340 + 50% of any increase"
- },
- {
-   "Name": "Pine Island School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Pine Island School District",
    "Region": 1,
    "Available": "y",
    "year1": "37113",
@@ -493,9 +461,8 @@
    "SI": "7500",
    "SI1": "",
    "FI": "9960"
- },
- {
-   "Name": "Plainview-Elgin-Millville Community School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Plainview-Elgin-Millville Community School District",
    "Region": 1,
    "Available": "y",
    "year1": "37349",
@@ -508,9 +475,8 @@
    "SI": "4706 adjustment in 2016",
    "SI1": "",
    "FI": "9566 adjustment in 2016"
- },
- {
-   "Name": "Red Wing School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Red Wing School District",
    "Region": 1,
    "Available": "y",
    "year1": "37523",
@@ -523,9 +489,8 @@
    "SI": "NO 90%",
    "SI1": "",
    "FI": "NO 85%"
- },
- {
-   "Name": "Rochester School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Rochester School District",
    "Region": 1,
    "Available": "y",
    "year1": "36859",
@@ -538,9 +503,8 @@
    "SI": "9072",
    "SI1": "",
    "FI": "18264"
- },
- {
-   "Name": "Rushford-Peterson School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Rushford-Peterson School District",
    "Region": 1,
    "Available": "n",
    "year1": "",
@@ -553,9 +517,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "SE Service Cooperative",
+  }},
+ {"type": "Feature", "properties": { "Name": "SE Service Cooperative",
    "Region": 1,
    "Available": "n",
    "year1": "",
@@ -568,9 +531,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "Southland School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Southland School District",
    "Region": 1,
    "Available": "spc",
    "year1": "37554+3.5% March",
@@ -583,9 +545,8 @@
    "SI": "4426",
    "SI1": "",
    "FI": "6532"
- },
- {
-   "Name": "Spring Grove Schools ",
+  }},
+ {"type": "Feature", "properties": { "Name": "Spring Grove Schools ",
    "Region": 1,
    "Available": "y",
    "year1": "37538",
@@ -598,9 +559,8 @@
    "SI": "8112",
    "SI1": "",
    "FI": "8112"
- },
- {
-   "Name": "St. Charles School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "St. Charles School District",
    "Region": 1,
    "Available": "y",
    "year1": "44508",
@@ -613,9 +573,8 @@
    "SI": "5350.68",
    "SI1": "",
    "FI": "10694.52"
- },
- {
-   "Name": "Stewartville School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Stewartville School District",
    "Region": 1,
    "Available": "n",
    "year1": "",
@@ -628,9 +587,8 @@
    "SI": "6684",
    "SI1": "",
    "FI": "20040"
- },
- {
-   "Name": "Triton School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Triton School District",
    "Region": 1,
    "Available": "y",
    "year1": "38633",
@@ -643,9 +601,8 @@
    "SI": "7800",
    "SI1": "",
    "FI": "9600"
- },
- {
-   "Name": "Wabasha-Kellogg School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Wabasha-Kellogg School District",
    "Region": 1,
    "Available": "n",
    "year1": "",
@@ -658,9 +615,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "Winona Area School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Winona Area School District",
    "Region": 1,
    "Available": "y",
    "year1": "38032",
@@ -673,9 +629,8 @@
    "SI": "y",
    "SI1": "",
    "FI": "13360"
- },
- {
-   "Name": "Zumbro Education District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Zumbro Education District",
    "Region": 1,
    "Available": "n",
    "year1": "",
@@ -688,9 +643,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "Zumbrota-Mazeppa School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Zumbrota-Mazeppa School District",
    "Region": 1,
    "Available": "y",
    "year1": "37624",
@@ -703,9 +657,8 @@
    "SI": "7620",
    "SI1": "",
    "FI": "12000"
- },
- {
-   "Name": "Blue Earth Area School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Blue Earth Area School District",
    "Region": 2,
    "Available": "y",
    "year1": "38500",
@@ -718,9 +671,8 @@
    "SI": "8364",
    "SI1": "",
    "FI": "8364"
- },
- {
-   "Name": "Cleveland School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Cleveland School District",
    "Region": 2,
    "Available": "y",
    "year1": "37042",
@@ -733,9 +685,8 @@
    "SI": "4800",
    "SI1": "",
    "FI": "8400"
- },
- {
-   "Name": "Comfrey School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Comfrey School District",
    "Region": 2,
    "Available": "y",
    "year1": "32894",
@@ -748,9 +699,8 @@
    "SI": "y",
    "SI1": "",
    "FI": "5748"
- },
- {
-   "Name": "Eden Prairie School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Eden Prairie School District",
    "Region": 2,
    "Available": "y",
    "year1": "39714",
@@ -763,9 +713,8 @@
    "SI": "y",
    "SI1": "",
    "FI": "NO10476"
- },
- {
-   "Name": "Fairmont Area School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Fairmont Area School District",
    "Region": 2,
    "Available": "y",
    "year1": "40000",
@@ -778,9 +727,8 @@
    "SI": "8628",
    "SI1": "",
    "FI": "8628"
- },
- {
-   "Name": "G.F.W. Schools (Gibbon Fairfax and Winthrop)",
+  }},
+ {"type": "Feature", "properties": { "Name": "G.F.W. Schools (Gibbon Fairfax and Winthrop)",
    "Region": 2,
    "Available": "y",
    "year1": "35405",
@@ -793,9 +741,8 @@
    "SI": "7200",
    "SI1": "",
    "FI": "8460"
- },
- {
-   "Name": "Janesville-Waldorf-Pemberton School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Janesville-Waldorf-Pemberton School District",
    "Region": 2,
    "Available": "y",
    "year1": "35216",
@@ -808,9 +755,8 @@
    "SI": "6827",
    "SI1": "",
    "FI": "6827"
- },
- {
-   "Name": "Lake Crystal Wellcome Memorial School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Lake Crystal Wellcome Memorial School District",
    "Region": 2,
    "Available": "y",
    "year1": "36334",
@@ -823,9 +769,8 @@
    "SI": "5818",
    "SI1": "",
    "FI": "5818"
- },
- {
-   "Name": "LeSueur-Henderson School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "LeSueur-Henderson School District",
    "Region": 2,
    "Available": "y",
    "year1": "36580",
@@ -838,9 +783,8 @@
    "SI": "6700",
    "SI1": "",
    "FI": "10800"
- },
- {
-   "Name": "Madelia School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Madelia School District",
    "Region": 2,
    "Available": "y",
    "year1": "36507",
@@ -853,9 +797,8 @@
    "SI": "7600",
    "SI1": "",
    "FI": "7600"
- },
- {
-   "Name": "Mankato Area School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Mankato Area School District",
    "Region": 2,
    "Available": "y",
    "year1": "40352",
@@ -868,9 +811,8 @@
    "SI": "7577.12-% increase to premium",
    "SI1": "",
    "FI": "7577.12-% increase to premium"
- },
- {
-   "Name": "Maple River School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Maple River School District",
    "Region": 2,
    "Available": "y",
    "year1": "39873",
@@ -883,9 +825,8 @@
    "SI": "y",
    "SI1": "",
    "FI": "n Paid"
- },
- {
-   "Name": "MCW (Martin County West) & GHEC Schools (Granada-Huntley-East Chain)",
+  }},
+ {"type": "Feature", "properties": { "Name": "MCW (Martin County West) & GHEC Schools (Granada-Huntley-East Chain)",
    "Region": 2,
    "Available": "y",
    "year1": "39000",
@@ -898,9 +839,8 @@
    "SI": "5400",
    "SI1": "",
    "FI": "10500"
- },
- {
-   "Name": "New Ulm School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "New Ulm School District",
    "Region": 2,
    "Available": "y",
    "year1": "37937",
@@ -913,9 +853,8 @@
    "SI": "8031.24",
    "SI1": "",
    "FI": "20126.88"
- },
- {
-   "Name": "Nicollet School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Nicollet School District",
    "Region": 2,
    "Available": "n",
    "year1": "",
@@ -928,9 +867,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "NRHEG Schools (New Richland Hartland Ellendale Geneva)",
+  }},
+ {"type": "Feature", "properties": { "Name": "NRHEG Schools (New Richland Hartland Ellendale Geneva)",
    "Region": 2,
    "Available": "y",
    "year1": "37729",
@@ -943,9 +881,8 @@
    "SI": "7230",
    "SI1": "",
    "FI": "13500"
- },
- {
-   "Name": "River Bend Education District",
+  }},
+ {"type": "Feature", "properties": { "Name": "River Bend Education District",
    "Region": 2,
    "Available": "y",
    "year1": "38430",
@@ -958,9 +895,8 @@
    "SI": "y",
    "SI1": "",
    "FI": "17712"
- },
- {
-   "Name": "SC Service Cooperative",
+  }},
+ {"type": "Feature", "properties": { "Name": "SC Service Cooperative",
    "Region": 2,
    "Available": "n",
    "year1": "",
@@ -973,9 +909,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "Sibley East School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Sibley East School District",
    "Region": 2,
    "Available": "y",
    "year1": "35097",
@@ -988,9 +923,8 @@
    "SI": "y",
    "SI1": "NO Will Pay 90%",
    "FI": "NO Will Pay 80%"
- },
- {
-   "Name": "Sleepy Eye School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Sleepy Eye School District",
    "Region": 2,
    "Available": "y",
    "year1": "34688",
@@ -1003,9 +937,8 @@
    "SI": "6110",
    "SI1": "",
    "FI": "8881"
- },
- {
-   "Name": "Southern Plains Education Cooperative",
+  }},
+ {"type": "Feature", "properties": { "Name": "Southern Plains Education Cooperative",
    "Region": 2,
    "Available": "y",
    "year1": "42972",
@@ -1018,9 +951,8 @@
    "SI": "8628",
    "SI1": "",
    "FI": "8628"
- },
- {
-   "Name": "St. Clair School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "St. Clair School District",
    "Region": 2,
    "Available": "y",
    "year1": "39533",
@@ -1033,9 +965,8 @@
    "SI": "7000",
    "SI1": "",
    "FI": "7000"
- },
- {
-   "Name": "St. James School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "St. James School District",
    "Region": 2,
    "Available": "y",
    "year1": "35098",
@@ -1048,9 +979,8 @@
    "SI": "8700",
    "SI1": "10000",
    "FI": "11250"
- },
- {
-   "Name": "St. Peter School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "St. Peter School District",
    "Region": 2,
    "Available": "y",
    "year1": "39328",
@@ -1063,9 +993,8 @@
    "SI": "12000",
    "SI1": "",
    "FI": "15500"
- },
- {
-   "Name": "Tri City United (Montgomery-Lonsdale-Le Center)",
+  }},
+ {"type": "Feature", "properties": { "Name": "Tri City United (Montgomery-Lonsdale-Le Center)",
    "Region": 2,
    "Available": "y",
    "year1": "36752",
@@ -1078,9 +1007,8 @@
    "SI": "10000 (Above rates 50% shared)",
    "SI1": "",
    "FI": "10000 (Above rates 50% shared)"
- },
- {
-   "Name": "Truman School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Truman School District",
    "Region": 2,
    "Available": "y",
    "year1": "37339",
@@ -1093,9 +1021,8 @@
    "SI": "6600",
    "SI1": "",
    "FI": "6600"
- },
- {
-   "Name": "United South Central Schools (Bricelyn-Easton-Freeborn-Kiester-Walters-Wells)",
+  }},
+ {"type": "Feature", "properties": { "Name": "United South Central Schools (Bricelyn-Easton-Freeborn-Kiester-Walters-Wells)",
    "Region": 2,
    "Available": "y",
    "year1": "38641",
@@ -1108,9 +1035,8 @@
    "SI": "10746",
    "SI1": "",
    "FI": "15534"
- },
- {
-   "Name": "Waseca School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Waseca School District",
    "Region": 2,
    "Available": "y",
    "year1": "37004",
@@ -1123,9 +1049,8 @@
    "SI": "7240",
    "SI1": "",
    "FI": "13940"
- },
- {
-   "Name": "Waterville-Elysian-Morristown School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Waterville-Elysian-Morristown School District",
    "Region": 2,
    "Available": "n",
    "year1": "",
@@ -1138,9 +1063,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "A.C.G.C. Schools (Atwater-Cosmos-Grove City)",
+  }},
+ {"type": "Feature", "properties": { "Name": "A.C.G.C. Schools (Atwater-Cosmos-Grove City)",
    "Region": 3,
    "Available": "y",
    "year1": "37638",
@@ -1153,9 +1077,8 @@
    "SI": "6000",
    "SI1": "",
    "FI": "6000"
- },
- {
-   "Name": "Adrian School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Adrian School District",
    "Region": 3,
    "Available": "y",
    "year1": "37183",
@@ -1168,9 +1091,8 @@
    "SI": "8928",
    "SI1": "",
    "FI": "8928"
- },
- {
-   "Name": "Benson School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Benson School District",
    "Region": 3,
    "Available": "y",
    "year1": "36500",
@@ -1183,9 +1105,8 @@
    "SI": "6900",
    "SI1": "",
    "FI": "6900"
- },
- {
-   "Name": "BOLD Schools (Bird Island-Olivia-Lake Lillian District)",
+  }},
+ {"type": "Feature", "properties": { "Name": "BOLD Schools (Bird Island-Olivia-Lake Lillian District)",
    "Region": 3,
    "Available": "n",
    "year1": "",
@@ -1198,9 +1119,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "Buffalo Lake-Hector School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Buffalo Lake-Hector School District",
    "Region": 3,
    "Available": "y",
    "year1": "37701",
@@ -1213,9 +1133,8 @@
    "SI": "5100",
    "SI1": "",
    "FI": "9360"
- },
- {
-   "Name": "Butterfield-Odin School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Butterfield-Odin School District",
    "Region": 3,
    "Available": "y",
    "year1": "36860",
@@ -1228,9 +1147,8 @@
    "SI": "6500",
    "SI1": "",
    "FI": "6500"
- },
- {
-   "Name": "Canby School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Canby School District",
    "Region": 3,
    "Available": "y",
    "year1": "36381",
@@ -1243,9 +1161,8 @@
    "SI": "5100",
    "SI1": "",
    "FI": "5100"
- },
- {
-   "Name": "Cedar Mountain School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Cedar Mountain School District",
    "Region": 3,
    "Available": "y",
    "year1": "35505",
@@ -1258,9 +1175,8 @@
    "SI": "NO 4293",
    "SI1": "",
    "FI": "8949"
- },
- {
-   "Name": "Clinton-Graceville-Beardsley School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Clinton-Graceville-Beardsley School District",
    "Region": 3,
    "Available": "y",
    "year1": "38650",
@@ -1273,9 +1189,8 @@
    "SI": "4800",
    "SI1": "",
    "FI": "6400"
- },
- {
-   "Name": "Dawson-Boyd School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Dawson-Boyd School District",
    "Region": 3,
    "Available": "y",
    "year1": "38462",
@@ -1288,9 +1203,8 @@
    "SI": "NO-VEBA",
    "SI1": "",
    "FI": "NO-VEBA"
- },
- {
-   "Name": "Eden Valley-Watkins School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Eden Valley-Watkins School District",
    "Region": 3,
    "Available": "y",
    "year1": "36432",
@@ -1303,9 +1217,8 @@
    "SI": "4825",
    "SI1": "",
    "FI": "4825"
- },
- {
-   "Name": "Fulda School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Fulda School District",
    "Region": 3,
    "Available": "n",
    "year1": "",
@@ -1318,9 +1231,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "Glencoe-Silver Lake School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Glencoe-Silver Lake School District",
    "Region": 3,
    "Available": "y",
    "year1": "35447",
@@ -1333,9 +1245,8 @@
    "SI": "6600",
    "SI1": "",
    "FI": "13200"
- },
- {
-   "Name": "Heron Lake-Okabena School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Heron Lake-Okabena School District",
    "Region": 3,
    "Available": "y",
    "year1": "39168",
@@ -1348,9 +1259,8 @@
    "SI": "5000",
    "SI1": "",
    "FI": "5000"
- },
- {
-   "Name": "Hutchinson School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Hutchinson School District",
    "Region": 3,
    "Available": "y",
    "year1": "38036",
@@ -1363,9 +1273,8 @@
    "SI": "4691.16",
    "SI1": "",
    "FI": "13126.80"
- },
- {
-   "Name": "Ivanhoe School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Ivanhoe School District",
    "Region": 3,
    "Available": "y",
    "year1": "29987",
@@ -1378,9 +1287,8 @@
    "SI": "3500-6500 based on yrs",
    "SI1": "",
    "FI": "3500-6500 based on yrs"
- },
- {
-   "Name": "Jackson County Central School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Jackson County Central School District",
    "Region": 3,
    "Available": "y",
    "year1": "39173",
@@ -1393,9 +1301,8 @@
    "SI": "6008",
    "SI1": "",
    "FI": "10176"
- },
- {
-   "Name": "Kerkhoven-Murdock-Sunburg Schools ",
+  }},
+ {"type": "Feature", "properties": { "Name": "Kerkhoven-Murdock-Sunburg Schools ",
    "Region": 3,
    "Available": "n",
    "year1": "",
@@ -1408,9 +1315,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "Lac qui Parle Valley School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Lac qui Parle Valley School District",
    "Region": 3,
    "Available": "y",
    "year1": "39461",
@@ -1423,9 +1329,8 @@
    "SI": "5500",
    "SI1": "",
    "FI": "5500"
- },
- {
-   "Name": "Lake Benton School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Lake Benton School District",
    "Region": 3,
    "Available": "y",
    "year1": "34600",
@@ -1438,9 +1343,8 @@
    "SI": "7200",
    "SI1": "",
    "FI": "7200"
- },
- {
-   "Name": "Lakeview School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Lakeview School District",
    "Region": 3,
    "Available": "y",
    "year1": "35695",
@@ -1453,9 +1357,8 @@
    "SI": "5200",
    "SI1": "",
    "FI": "7750"
- },
- {
-   "Name": "Lester Prairie School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Lester Prairie School District",
    "Region": 3,
    "Available": "n",
    "year1": "",
@@ -1468,9 +1371,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "Litchfield School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Litchfield School District",
    "Region": 3,
    "Available": "y",
    "year1": "43340",
@@ -1483,9 +1385,8 @@
    "SI": "6600",
    "SI1": "",
    "FI": " 9570"
- },
- {
-   "Name": "Luverne School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Luverne School District",
    "Region": 3,
    "Available": "y",
    "year1": "37340",
@@ -1498,9 +1399,8 @@
    "SI": "4098",
    "SI1": "",
    "FI": "11958"
- },
- {
-   "Name": "MACCRAY Schools (Maynard-Clara City-Raymond)",
+  }},
+ {"type": "Feature", "properties": { "Name": "MACCRAY Schools (Maynard-Clara City-Raymond)",
    "Region": 3,
    "Available": "n",
    "year1": "",
@@ -1513,9 +1413,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "Marshall School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Marshall School District",
    "Region": 3,
    "Available": "y",
    "year1": "36600",
@@ -1528,9 +1427,8 @@
    "SI": "5139",
    "SI1": "",
    "FI": "10062"
- },
- {
-   "Name": "Milroy School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Milroy School District",
    "Region": 3,
    "Available": "y",
    "year1": "31000",
@@ -1543,9 +1441,8 @@
    "SI": "4000",
    "SI1": "",
    "FI": "4000"
- },
- {
-   "Name": "Minneota School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Minneota School District",
    "Region": 3,
    "Available": "y",
    "year1": "35474",
@@ -1558,9 +1455,8 @@
    "SI": "5450",
    "SI1": "",
    "FI": "NO 6450"
- },
- {
-   "Name": "MN River Valley Education District",
+  }},
+ {"type": "Feature", "properties": { "Name": "MN River Valley Education District",
    "Region": 3,
    "Available": "n",
    "year1": "",
@@ -1573,9 +1469,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "Montevideo School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Montevideo School District",
    "Region": 3,
    "Available": "y",
    "year1": "38324",
@@ -1588,9 +1483,8 @@
    "SI": "8400",
    "SI1": "",
    "FI": "8400"
- },
- {
-   "Name": "Mountain Lake School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Mountain Lake School District",
    "Region": 3,
    "Available": "y",
    "year1": "34900",
@@ -1603,9 +1497,8 @@
    "SI": "6600",
    "SI1": "",
    "FI": "11000"
- },
- {
-   "Name": "Murray County Central School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Murray County Central School District",
    "Region": 3,
    "Available": "n",
    "year1": "",
@@ -1618,9 +1511,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "New London-Spicer School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "New London-Spicer School District",
    "Region": 3,
    "Available": "y",
    "year1": "36471",
@@ -1633,9 +1525,8 @@
    "SI": "9100",
    "SI1": "",
    "FI": "9100"
- },
- {
-   "Name": "Ortonville School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Ortonville School District",
    "Region": 3,
    "Available": "y",
    "year1": "36660",
@@ -1648,9 +1539,8 @@
    "SI": "7283",
    "SI1": "",
    "FI": "7283"
- },
- {
-   "Name": "Pipestone Area School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Pipestone Area School District",
    "Region": 3,
    "Available": "y",
    "year1": "37500",
@@ -1663,9 +1553,8 @@
    "SI": "4992",
    "SI1": "",
    "FI": "5800"
- },
- {
-   "Name": "Red Rock Central School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Red Rock Central School District",
    "Region": 3,
    "Available": "y",
    "year1": "37950",
@@ -1678,9 +1567,8 @@
    "SI": "8700",
    "SI1": "",
    "FI": "8700"
- },
- {
-   "Name": "Redwood Area School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Redwood Area School District",
    "Region": 3,
    "Available": "y",
    "year1": "38000",
@@ -1693,9 +1581,8 @@
    "SI": "4888",
    "SI1": "",
    "FI": "6700",
-   "FIELD14": "1500 per yr" },
- {
-   "Name": "Renville County West School District",
+   "FIELD14": "1500 per yr"  }},
+ {"type": "Feature", "properties": { "Name": "Renville County West School District",
    "Region": 3,
    "Available": "y",
    "year1": "37602",
@@ -1708,9 +1595,8 @@
    "SI": "5800",
    "SI1": "",
    "FI": "5800"
- },
- {
-   "Name": "Round Lake-Brewster School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Round Lake-Brewster School District",
    "Region": 3,
    "Available": "n",
    "year1": "",
@@ -1723,9 +1609,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "RTR-Lynd Schools (Russell-Tyler-Ruthton-Lynd)",
+  }},
+ {"type": "Feature", "properties": { "Name": "RTR-Lynd Schools (Russell-Tyler-Ruthton-Lynd)",
    "Region": 3,
    "Available": "y",
    "year1": "35570",
@@ -1738,9 +1623,8 @@
    "SI": "7800",
    "SI1": "",
    "FI": "7800"
- },
- {
-   "Name": "Springfield School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Springfield School District",
    "Region": 3,
    "Available": "y",
    "year1": "35889",
@@ -1753,9 +1637,8 @@
    "SI": "5840",
    "SI1": "",
    "FI": "11496"
- },
- {
-   "Name": "SW/WC Service Cooperatives",
+  }},
+ {"type": "Feature", "properties": { "Name": "SW/WC Service Cooperatives",
    "Region": 3,
    "Available": "y",
    "year1": "39750",
@@ -1768,9 +1651,8 @@
    "SI": "6014",
    "SI1": "",
    "FI": "12170"
- },
- {
-   "Name": "Tracy Area School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Tracy Area School District",
    "Region": 3,
    "Available": "y",
    "year1": "36143",
@@ -1783,9 +1665,8 @@
    "SI": "7000",
    "SI1": "",
    "FI": "10480"
- },
- {
-   "Name": "Wabasso School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Wabasso School District",
    "Region": 3,
    "Available": "n",
    "year1": "",
@@ -1798,9 +1679,8 @@
    "SI": "5200",
    "SI1": "",
    "FI": "8000"
- },
- {
-   "Name": "Westbrook-Walnut Grove School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Westbrook-Walnut Grove School District",
    "Region": 3,
    "Available": "n",
    "year1": "",
@@ -1813,9 +1693,8 @@
    "SI": "6000",
    "SI1": "",
    "FI": "6000"
- },
- {
-   "Name": "Willmar School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Willmar School District",
    "Region": 3,
    "Available": "n",
    "year1": "Not Settled",
@@ -1828,9 +1707,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "Windom School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Windom School District",
    "Region": 3,
    "Available": "y",
    "year1": "38590",
@@ -1843,9 +1721,8 @@
    "SI": "9718",
    "SI1": "",
    "FI": "9718"
- },
- {
-   "Name": "Worthington School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Worthington School District",
    "Region": 3,
    "Available": "y",
    "year1": "40001",
@@ -1858,9 +1735,8 @@
    "SI": "7254",
    "SI1": "",
    "FI": "7254"
- },
- {
-   "Name": "Yellow Medicine East School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Yellow Medicine East School District",
    "Region": 3,
    "Available": "y",
    "year1": "36605",
@@ -1873,9 +1749,8 @@
    "SI": "5050",
    "SI1": "",
    "FI": "6400"
- },
- {
-   "Name": "Alexandria School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Alexandria School District",
    "Region": 4,
    "Available": "n",
    "year1": "",
@@ -1888,9 +1763,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "Barnesville School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Barnesville School District",
    "Region": 4,
    "Available": "n",
    "year1": "",
@@ -1903,9 +1777,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "Battle Lake School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Battle Lake School District",
    "Region": 4,
    "Available": "n",
    "year1": "",
@@ -1918,9 +1791,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "Brandon School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Brandon School District",
    "Region": 4,
    "Available": "n",
    "year1": "",
@@ -1933,9 +1805,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "Breckenridge School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Breckenridge School District",
    "Region": 4,
    "Available": "y",
    "year1": "36224",
@@ -1948,9 +1819,8 @@
    "SI": "5400",
    "SI1": "",
    "FI": "5400"
- },
- {
-   "Name": "Browns Valley School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Browns Valley School District",
    "Region": 4,
    "Available": "n",
    "year1": "",
@@ -1963,9 +1833,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "Campbell-Tintah School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Campbell-Tintah School District",
    "Region": 4,
    "Available": "n",
    "year1": "",
@@ -1978,9 +1847,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "Chokio-Alberta School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Chokio-Alberta School District",
    "Region": 4,
    "Available": "n",
    "year1": "",
@@ -1993,9 +1861,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "Detroit Lakes School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Detroit Lakes School District",
    "Region": 4,
    "Available": "y",
    "year1": "37674",
@@ -2008,9 +1875,8 @@
    "SI": "4000",
    "SI1": "",
    "FI": "5000"
- },
- {
-   "Name": "Dilworth-Glyndon-Felton School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Dilworth-Glyndon-Felton School District",
    "Region": 4,
    "Available": "n",
    "year1": "",
@@ -2023,9 +1889,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "Evansville/Ashby School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Evansville/Ashby School District",
    "Region": 4,
    "Available": "n",
    "year1": "",
@@ -2038,9 +1903,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "Fergus Falls School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Fergus Falls School District",
    "Region": 4,
    "Available": "n",
    "year1": "",
@@ -2053,9 +1917,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "Fergus Falls Special Ed Cooperative",
+  }},
+ {"type": "Feature", "properties": { "Name": "Fergus Falls Special Ed Cooperative",
    "Region": 4,
    "Available": "n",
    "year1": "",
@@ -2068,9 +1931,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "Frazee-Vergas School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Frazee-Vergas School District",
    "Region": 4,
    "Available": "n",
    "year1": "",
@@ -2083,9 +1945,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "Hancock School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Hancock School District",
    "Region": 4,
    "Available": "n",
    "year1": "",
@@ -2098,9 +1959,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "Hawley School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Hawley School District",
    "Region": 4,
    "Available": "n",
    "year1": "",
@@ -2113,9 +1973,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "Henning Schools ",
+  }},
+ {"type": "Feature", "properties": { "Name": "Henning Schools ",
    "Region": 4,
    "Available": "n",
    "year1": "",
@@ -2128,9 +1987,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "Herman-Norcross School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Herman-Norcross School District",
    "Region": 4,
    "Available": "n",
    "year1": "",
@@ -2143,9 +2001,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "Lake Park Audubon School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Lake Park Audubon School District",
    "Region": 4,
    "Available": "n",
    "year1": "",
@@ -2158,9 +2015,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "Lakes Country Service Cooperative",
+  }},
+ {"type": "Feature", "properties": { "Name": "Lakes Country Service Cooperative",
    "Region": 4,
    "Available": "n",
    "year1": "",
@@ -2173,9 +2029,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "Minnewaska School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Minnewaska School District",
    "Region": 4,
    "Available": "n",
    "year1": "",
@@ -2188,9 +2043,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "MN Rural Education Association",
+  }},
+ {"type": "Feature", "properties": { "Name": "MN Rural Education Association",
    "Region": 4,
    "Available": "n",
    "year1": "",
@@ -2203,9 +2057,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "Moorhead Area School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Moorhead Area School District",
    "Region": 4,
    "Available": "y",
    "year1": "37613",
@@ -2218,9 +2071,8 @@
    "SI": "9000",
    "SI1": "",
    "FI": "13944"
- },
- {
-   "Name": "Morris Area School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Morris Area School District",
    "Region": 4,
    "Available": "y",
    "year1": "38639",
@@ -2233,9 +2085,8 @@
    "SI": "6100",
    "SI1": "",
    "FI": "6100"
- },
- {
-   "Name": "New York Mills School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "New York Mills School District",
    "Region": 4,
    "Available": "n",
    "year1": "",
@@ -2248,9 +2099,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "Osakis School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Osakis School District",
    "Region": 4,
    "Available": "n",
    "year1": "",
@@ -2263,9 +2113,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "Parkers Prairie School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Parkers Prairie School District",
    "Region": 4,
    "Available": "n",
    "year1": "",
@@ -2278,9 +2127,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "Pelican Rapids School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Pelican Rapids School District",
    "Region": 4,
    "Available": "n",
    "year1": "",
@@ -2293,9 +2141,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "Perham School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Perham School District",
    "Region": 4,
    "Available": "n",
    "year1": "",
@@ -2308,9 +2155,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "Pine Point School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Pine Point School District",
    "Region": 4,
    "Available": "n",
    "year1": "",
@@ -2323,9 +2169,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "Region 1-ESV",
+  }},
+ {"type": "Feature", "properties": { "Name": "Region 1-ESV",
    "Region": 4,
    "Available": "n",
    "year1": "",
@@ -2338,9 +2183,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "Rothsay School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Rothsay School District",
    "Region": 4,
    "Available": "n",
    "year1": "",
@@ -2353,9 +2197,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "Ulen-Hitterdal School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Ulen-Hitterdal School District",
    "Region": 4,
    "Available": "n",
    "year1": "",
@@ -2368,9 +2211,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "Underwood School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Underwood School District",
    "Region": 4,
    "Available": "n",
    "year1": "",
@@ -2383,9 +2225,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "West Central Area School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "West Central Area School District",
    "Region": 4,
    "Available": "n",
    "year1": "",
@@ -2398,9 +2239,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "Wheaton Area School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Wheaton Area School District",
    "Region": 4,
    "Available": "n",
    "year1": "",
@@ -2413,9 +2253,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "Aitkin School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Aitkin School District",
    "Region": 5,
    "Available": "y",
    "year1": "35939",
@@ -2428,9 +2267,8 @@
    "SI": "8700",
    "SI1": "",
    "FI": "8700"
- },
- {
-   "Name": "Bertha-Hewitt School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Bertha-Hewitt School District",
    "Region": 5,
    "Available": "y",
    "year1": "35843",
@@ -2443,9 +2281,8 @@
    "SI": "5880",
    "SI1": "",
    "FI": "5880"
- },
- {
-   "Name": "Browerville School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Browerville School District",
    "Region": 5,
    "Available": "y",
    "year1": "40194",
@@ -2458,9 +2295,8 @@
    "SI": "3972",
    "SI1": "",
    "FI": "9420"
- },
- {
-   "Name": "Bug-O-Nay-Ge-Shig School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Bug-O-Nay-Ge-Shig School District",
    "Region": 5,
    "Available": "n",
    "year1": "",
@@ -2473,9 +2309,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "Cass Lake-Bena School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Cass Lake-Bena School District",
    "Region": 5,
    "Available": "y",
    "year1": "40728",
@@ -2488,9 +2323,8 @@
    "SI": "4800",
    "SI1": "8400",
    "FI": "8400"
- },
- {
-   "Name": "Crosby-Ironton School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Crosby-Ironton School District",
    "Region": 5,
    "Available": "n",
    "year1": "",
@@ -2503,9 +2337,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "Eagle Valley School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Eagle Valley School District",
    "Region": 5,
    "Available": "y",
    "year1": "39367",
@@ -2518,9 +2351,8 @@
    "SI": "0",
    "SI1": "",
    "FI": "0"
- },
- {
-   "Name": "Little Falls School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Little Falls School District",
    "Region": 5,
    "Available": "n",
    "year1": "",
@@ -2533,9 +2365,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "Long Prairie-Grey Eagle School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Long Prairie-Grey Eagle School District",
    "Region": 5,
    "Available": "n",
    "year1": "",
@@ -2548,9 +2379,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "Menahga School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Menahga School District",
    "Region": 5,
    "Available": "n",
    "year1": "",
@@ -2563,9 +2393,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "Mid-State Education District (MSED)",
+  }},
+ {"type": "Feature", "properties": { "Name": "Mid-State Education District (MSED)",
    "Region": 5,
    "Available": "y",
    "year1": "35413",
@@ -2578,9 +2407,8 @@
    "SI": "4578",
    "SI1": "",
    "FI": "7059"
- },
- {
-   "Name": "Nat'l Joint Powers Alliance",
+  }},
+ {"type": "Feature", "properties": { "Name": "Nat'l Joint Powers Alliance",
    "Region": 5,
    "Available": "n",
    "year1": "",
@@ -2593,9 +2421,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "Northland Community School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Northland Community School District",
    "Region": 5,
    "Available": "y",
    "year1": "37954",
@@ -2608,9 +2435,8 @@
    "SI": "6200",
    "SI1": "",
    "FI": "6200"
- },
- {
-   "Name": "Paul Bunyan Education Cooperative",
+  }},
+ {"type": "Feature", "properties": { "Name": "Paul Bunyan Education Cooperative",
    "Region": 5,
    "Available": "n",
    "year1": "",
@@ -2623,9 +2449,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "Pequot Lakes School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Pequot Lakes School District",
    "Region": 5,
    "Available": "y",
    "year1": "35063",
@@ -2638,9 +2463,8 @@
    "SI": "NO 90%+300 HRA",
    "SI1": "",
    "FI": "NO 90%+1800+300 HRA"
- },
- {
-   "Name": "Pierz School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Pierz School District",
    "Region": 5,
    "Available": "y",
    "year1": "37215",
@@ -2653,9 +2477,8 @@
    "SI": "9504",
    "SI1": "",
    "FI": "9504"
- },
- {
-   "Name": "Pillager School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Pillager School District",
    "Region": 5,
    "Available": "n",
    "year1": "",
@@ -2668,9 +2491,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "Pine River-Backus School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Pine River-Backus School District",
    "Region": 5,
    "Available": "y",
    "year1": "39095",
@@ -2683,9 +2505,8 @@
    "SI": "5340",
    "SI1": "",
    "FI": "5340"
- },
- {
-   "Name": "Royalton School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Royalton School District",
    "Region": 5,
    "Available": "n",
    "year1": "",
@@ -2698,9 +2519,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "Sebeka School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Sebeka School District",
    "Region": 5,
    "Available": "y",
    "year1": "38289",
@@ -2713,9 +2533,8 @@
    "SI": "5460",
    "SI1": "",
    "FI": "7380"
- },
- {
-   "Name": "Staples Motley School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Staples Motley School District",
    "Region": 5,
    "Available": "n",
    "year1": "",
@@ -2728,9 +2547,8 @@
    "SI": "7350",
    "SI1": "",
    "FI": "7400",
-   "FIELD14": "2000 Career" },
- {
-   "Name": "Swanville School District",
+   "FIELD14": "2000 Career"  }},
+ {"type": "Feature", "properties": { "Name": "Swanville School District",
    "Region": 5,
    "Available": "y",
    "year1": "38133",
@@ -2743,9 +2561,8 @@
    "SI": "y",
    "SI1": "",
    "FI": "NO 70%"
- },
- {
-   "Name": "Verndale School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Verndale School District",
    "Region": 5,
    "Available": "y",
    "year1": "36318",
@@ -2758,9 +2575,8 @@
    "SI": "6800",
    "SI1": "",
    "FI": "6800"
- },
- {
-   "Name": "Wadena-Deer Creek School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Wadena-Deer Creek School District",
    "Region": 5,
    "Available": "n",
    "year1": "",
@@ -2773,9 +2589,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "Walker-Hackensack-Akeley School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Walker-Hackensack-Akeley School District",
    "Region": 5,
    "Available": "y",
    "year1": "34958",
@@ -2788,9 +2603,8 @@
    "SI": "7404",
    "SI1": "",
    "FI": "7404"
- },
- {
-   "Name": "Albany Area School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Albany Area School District",
    "Region": 6,
    "Available": "n",
    "year1": "",
@@ -2803,9 +2617,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "Annandale School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Annandale School District",
    "Region": 6,
    "Available": "y",
    "year1": "37349",
@@ -2818,9 +2631,8 @@
    "SI": "7790",
    "SI1": "",
    "FI": "13861"
- },
- {
-   "Name": "Becker School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Becker School District",
    "Region": 6,
    "Available": "n",
    "year1": "",
@@ -2833,9 +2645,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "Belgrade-Brooten-Elrosa School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Belgrade-Brooten-Elrosa School District",
    "Region": 6,
    "Available": "y",
    "year1": "36589",
@@ -2848,9 +2659,8 @@
    "SI": "8100",
    "SI1": "",
    "FI": "8100"
- },
- {
-   "Name": "Benton-Stearns Education District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Benton-Stearns Education District",
    "Region": 6,
    "Available": "n",
    "year1": "",
@@ -2863,9 +2673,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "Big Lake School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Big Lake School District",
    "Region": 6,
    "Available": "y",
    "year1": "37500",
@@ -2878,9 +2687,8 @@
    "SI": "6480",
    "SI1": "",
    "FI": "14064"
- },
- {
-   "Name": "Braham School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Braham School District",
    "Region": 6,
    "Available": "n",
    "year1": "",
@@ -2893,9 +2701,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "Buffalo School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Buffalo School District",
    "Region": 6,
    "Available": "y",
    "year1": "39129",
@@ -2908,9 +2715,8 @@
    "SI": "8464",
    "SI1": "",
    "FI": "15652"
- },
- {
-   "Name": "Cambridge-Isanti School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Cambridge-Isanti School District",
    "Region": 6,
    "Available": "n",
    "year1": "",
@@ -2923,9 +2729,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "Chisago Lakes Area School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Chisago Lakes Area School District",
    "Region": 6,
    "Available": "y",
    "year1": "37407",
@@ -2938,9 +2743,8 @@
    "SI": "6630",
    "SI1": "",
    "FI": "13085"
- },
- {
-   "Name": "Dassel-Cokato School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Dassel-Cokato School District",
    "Region": 6,
    "Available": "n",
    "year1": "",
@@ -2953,9 +2757,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "East Central School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "East Central School District",
    "Region": 6,
    "Available": "y",
    "year1": "38874",
@@ -2968,9 +2771,8 @@
    "SI": "y",
    "SI1": "7839",
    "FI": "9351"
- },
- {
-   "Name": "Elk River School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Elk River School District",
    "Region": 6,
    "Available": "y",
    "year1": "38587",
@@ -2983,9 +2785,8 @@
    "SI": "7824",
    "SI1": "",
    "FI": "17076"
- },
- {
-   "Name": "Foley School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Foley School District",
    "Region": 6,
    "Available": "y",
    "year1": "42689",
@@ -2998,9 +2799,8 @@
    "SI": "8238.48",
    "SI1": "",
    "FI": "17442.96"
- },
- {
-   "Name": "Freshwater Education District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Freshwater Education District",
    "Region": 6,
    "Available": "y",
    "year1": "38701",
@@ -3013,9 +2813,8 @@
    "SI": "7200",
    "SI1": "",
    "FI": "7200"
- },
- {
-   "Name": "Hinckley-Finlayson School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Hinckley-Finlayson School District",
    "Region": 6,
    "Available": "n",
    "year1": "",
@@ -3028,9 +2827,8 @@
    "SI": "6904",
    "SI1": "",
    "FI": "13665"
- },
- {
-   "Name": "Holdingford School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Holdingford School District",
    "Region": 6,
    "Available": "y",
    "year1": "36711",
@@ -3043,9 +2841,8 @@
    "SI": "y",
    "SI1": "",
    "FI": "14712"
- },
- {
-   "Name": "Howard Lake-Waverly-Winsted School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Howard Lake-Waverly-Winsted School District",
    "Region": 6,
    "Available": "y",
    "year1": "36681",
@@ -3058,9 +2855,8 @@
    "SI": "6176",
    "SI1": "",
    "FI": "9839"
- },
- {
-   "Name": "Isle School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Isle School District",
    "Region": 6,
    "Available": "n",
    "year1": "",
@@ -3073,9 +2869,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "Kimball School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Kimball School District",
    "Region": 6,
    "Available": "n",
    "year1": "",
@@ -3088,9 +2883,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "Litchfield School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Litchfield School District",
    "Region": 6,
    "Available": "y",
    "year1": "43340",
@@ -3103,9 +2897,8 @@
    "SI": "6812.76",
    "SI1": "",
    "FI": "10183.32"
- },
- {
-   "Name": "Maple Lake School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Maple Lake School District",
    "Region": 6,
    "Available": "y",
    "year1": "35261",
@@ -3118,9 +2911,8 @@
    "SI": "6577",
    "SI1": "",
    "FI": "13368"
- },
- {
-   "Name": "MAWSECO",
+  }},
+ {"type": "Feature", "properties": { "Name": "MAWSECO",
    "Region": 6,
    "Available": "y",
    "year1": "39003",
@@ -3133,9 +2925,8 @@
    "SI": "7111.91",
    "SI1": "",
    "FI": "13009.48"
- },
- {
-   "Name": "Melrose Area School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Melrose Area School District",
    "Region": 6,
    "Available": "y",
    "year1": "40375",
@@ -3148,9 +2939,8 @@
    "SI": "4851.60",
    "SI1": "",
    "FI": "11760"
- },
- {
-   "Name": "Milaca School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Milaca School District",
    "Region": 6,
    "Available": "n",
    "year1": "",
@@ -3163,9 +2953,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "Monticello School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Monticello School District",
    "Region": 6,
    "Available": "y",
    "year1": "37566",
@@ -3178,9 +2967,8 @@
    "SI": "17400",
    "SI1": "",
    "FI": "17400"
- },
- {
-   "Name": "Mora School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Mora School District",
    "Region": 6,
    "Available": "y",
    "year1": "37838",
@@ -3193,9 +2981,8 @@
    "SI": "6525",
    "SI1": "",
    "FI": "6525"
- },
- {
-   "Name": "North Branch Area School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "North Branch Area School District",
    "Region": 6,
    "Available": "n",
    "year1": "",
@@ -3208,9 +2995,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "Ogilvie School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Ogilvie School District",
    "Region": 6,
    "Available": "n",
    "year1": "",
@@ -3223,9 +3009,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "Onamia School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Onamia School District",
    "Region": 6,
    "Available": "y",
    "year1": "37104",
@@ -3238,9 +3023,8 @@
    "SI": "6957.84",
    "SI1": "",
    "FI": "8624.16"
- },
- {
-   "Name": "Paynesville School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Paynesville School District",
    "Region": 6,
    "Available": "y",
    "year1": "35771",
@@ -3253,9 +3037,8 @@
    "SI": "4920",
    "SI1": "",
    "FI": "4920"
- },
- {
-   "Name": "Pine City School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Pine City School District",
    "Region": 6,
    "Available": "y",
    "year1": "37674",
@@ -3268,9 +3051,8 @@
    "SI": "9600",
    "SI1": "",
    "FI": "9600"
- },
- {
-   "Name": "Princeton School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Princeton School District",
    "Region": 6,
    "Available": "y",
    "year1": "37576",
@@ -3283,9 +3065,8 @@
    "SI": "6780",
    "SI1": "8412",
    "FI": "9540"
- },
- {
-   "Name": "Rockford Area School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Rockford Area School District",
    "Region": 6,
    "Available": "y",
    "year1": "34640",
@@ -3298,9 +3079,8 @@
    "SI": "8056",
    "SI1": "",
    "FI": "12916"
- },
- {
-   "Name": "Rocori School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Rocori School District",
    "Region": 6,
    "Available": "y",
    "year1": "35744",
@@ -3313,9 +3093,8 @@
    "SI": "y",
    "SI1": "",
    "FI": "15682(HSA)+75%of any incr."
- },
- {
-   "Name": "Rum River Special Education Cooperative",
+  }},
+ {"type": "Feature", "properties": { "Name": "Rum River Special Education Cooperative",
    "Region": 6,
    "Available": "n",
    "year1": "",
@@ -3328,9 +3107,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "Rush City School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Rush City School District",
    "Region": 6,
    "Available": "n",
    "year1": "",
@@ -3343,9 +3121,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "Sartell-St. Stephen School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Sartell-St. Stephen School District",
    "Region": 6,
    "Available": "y",
    "year1": "36559",
@@ -3358,9 +3135,8 @@
    "SI": "6600",
    "SI1": "",
    "FI": "16400"
- },
- {
-   "Name": "Sauk Centre School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Sauk Centre School District",
    "Region": 6,
    "Available": "y",
    "year1": "38550",
@@ -3373,9 +3149,8 @@
    "SI": "9600",
    "SI1": "",
    "FI": "9600"
- },
- {
-   "Name": "Sauk Rapids-Rice School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Sauk Rapids-Rice School District",
    "Region": 6,
    "Available": "y",
    "year1": "39204",
@@ -3388,9 +3163,8 @@
    "SI": "7100",
    "SI1": "",
    "FI": "7100"
- },
- {
-   "Name": "Sherburne-N Wright Cooperative",
+  }},
+ {"type": "Feature", "properties": { "Name": "Sherburne-N Wright Cooperative",
    "Region": 6,
    "Available": "n",
    "year1": "",
@@ -3403,9 +3177,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "St. Cloud Area School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "St. Cloud Area School District",
    "Region": 6,
    "Available": "y",
    "year1": "39631",
@@ -3418,9 +3191,8 @@
    "SI": "8380",
    "SI1": "",
    "FI": "11936"
- },
- {
-   "Name": "St. Croix River Education District",
+  }},
+ {"type": "Feature", "properties": { "Name": "St. Croix River Education District",
    "Region": 6,
    "Available": "n",
    "year1": "",
@@ -3433,9 +3205,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "St. Michael-Albertville School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "St. Michael-Albertville School District",
    "Region": 6,
    "Available": "y",
    "year1": "38718",
@@ -3448,9 +3219,8 @@
    "SI": "6360",
    "SI1": "",
    "FI": "14844"
- },
- {
-   "Name": "Upsala School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Upsala School District",
    "Region": 6,
    "Available": "y",
    "year1": "38337",
@@ -3463,9 +3233,8 @@
    "SI": "Not Attached",
    "SI1": "",
    "FI": "Not Attached"
- },
- {
-   "Name": "West Central Education District",
+  }},
+ {"type": "Feature", "properties": { "Name": "West Central Education District",
    "Region": 6,
    "Available": "y",
    "year1": "38578",
@@ -3478,9 +3247,8 @@
    "SI": "4800",
    "SI1": "",
    "FI": "6000"
- },
- {
-   "Name": "Willow River School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Willow River School District",
    "Region": 6,
    "Available": "n",
    "year1": "",
@@ -3493,9 +3261,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "Wright Technical Center",
+  }},
+ {"type": "Feature", "properties": { "Name": "Wright Technical Center",
    "Region": 6,
    "Available": "n",
    "year1": "",
@@ -3508,9 +3275,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "Barnum School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Barnum School District",
    "Region": 7,
    "Available": "y",
    "year1": "39024",
@@ -3523,9 +3289,8 @@
    "SI": "5400",
    "SI1": "",
    "FI": "15084"
- },
- {
-   "Name": "Carlton School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Carlton School District",
    "Region": 7,
    "Available": "n",
    "year1": "",
@@ -3538,9 +3303,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "Chisholm School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Chisholm School District",
    "Region": 7,
    "Available": "y",
    "year1": "36716",
@@ -3553,9 +3317,8 @@
    "SI": "6942",
    "SI1": "",
    "FI": "13946.04"
- },
- {
-   "Name": "Cloquet School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Cloquet School District",
    "Region": 7,
    "Available": "y",
    "year1": "38101",
@@ -3568,9 +3331,8 @@
    "SI": "y",
    "SI1": "",
    "FI": "15468"
- },
- {
-   "Name": "Cook County School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Cook County School District",
    "Region": 7,
    "Available": "n",
    "year1": "",
@@ -3583,9 +3345,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "Cromwell-Wright School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Cromwell-Wright School District",
    "Region": 7,
    "Available": "n",
    "year1": "",
@@ -3598,9 +3359,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "Deer River School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Deer River School District",
    "Region": 7,
    "Available": "y",
    "year1": "37791",
@@ -3613,9 +3373,8 @@
    "SI": "7200",
    "SI1": "",
    "FI": "12000"
- },
- {
-   "Name": "Duluth School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Duluth School District",
    "Region": 7,
    "Available": "y",
    "year1": "36430",
@@ -3628,9 +3387,8 @@
    "SI": "y",
    "SI1": "",
    "FI": "NO 75%"
- },
- {
-   "Name": "Ely School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Ely School District",
    "Region": 7,
    "Available": "y",
    "year1": "35614",
@@ -3643,9 +3401,8 @@
    "SI": "y",
    "SI1": "",
    "FI": "12184"
- },
- {
-   "Name": "Esko School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Esko School District",
    "Region": 7,
    "Available": "n",
    "year1": "",
@@ -3658,9 +3415,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "Floodwood School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Floodwood School District",
    "Region": 7,
    "Available": "n",
    "year1": "",
@@ -3673,9 +3429,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "Grand Rapids School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Grand Rapids School District",
    "Region": 7,
    "Available": "n",
    "year1": "",
@@ -3688,9 +3443,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "Greenway School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Greenway School District",
    "Region": 7,
    "Available": "n",
    "year1": "",
@@ -3703,9 +3457,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "Hermantown School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Hermantown School District",
    "Region": 7,
    "Available": "y",
    "year1": "37105",
@@ -3718,9 +3471,8 @@
    "SI": "7860",
    "SI1": "",
    "FI": "7860"
- },
- {
-   "Name": "Hibbing School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Hibbing School District",
    "Region": 7,
    "Available": "y",
    "year1": "38657",
@@ -3733,9 +3485,8 @@
    "SI": "NO 92% minus 75-55",
    "SI1": "",
    "FI": "NO 75%"
- },
- {
-   "Name": "Hill City School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Hill City School District",
    "Region": 7,
    "Available": "y",
    "year1": "39047",
@@ -3748,9 +3499,8 @@
    "SI": "4515",
    "SI1": "",
    "FI": "10500"
- },
- {
-   "Name": "International Falls School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "International Falls School District",
    "Region": 7,
    "Available": "y",
    "year1": "41718",
@@ -3763,9 +3513,8 @@
    "SI": "6913.80",
    "SI1": "",
    "FI": "15590.28"
- },
- {
-   "Name": "Lake Superior School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Lake Superior School District",
    "Region": 7,
    "Available": "y",
    "year1": "37358",
@@ -3778,9 +3527,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "Littlefork-Big Falls School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Littlefork-Big Falls School District",
    "Region": 7,
    "Available": "n",
    "year1": "",
@@ -3793,9 +3541,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "McGregor School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "McGregor School District",
    "Region": 7,
    "Available": "y",
    "year1": "36126",
@@ -3808,9 +3555,8 @@
    "SI": "7600",
    "SI1": "",
    "FI": "7600"
- },
- {
-   "Name": "Mesabi East School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Mesabi East School District",
    "Region": 7,
    "Available": "n",
    "year1": "",
@@ -3823,9 +3569,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "Moose Lake School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Moose Lake School District",
    "Region": 7,
    "Available": "y",
    "year1": "38565",
@@ -3838,9 +3583,8 @@
    "SI": "5760",
    "SI1": "",
    "FI": "9900"
- },
- {
-   "Name": "Mountain Iron-Buhl School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Mountain Iron-Buhl School District",
    "Region": 7,
    "Available": "n",
    "year1": "",
@@ -3853,9 +3597,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "Nashwauk-Keewatin School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Nashwauk-Keewatin School District",
    "Region": 7,
    "Available": "n",
    "year1": "",
@@ -3868,9 +3611,8 @@
    "SI": "NO 80%",
    "SI1": "",
    "FI": "NO 80%"
- },
- {
-   "Name": "NE Service Cooperative",
+  }},
+ {"type": "Feature", "properties": { "Name": "NE Service Cooperative",
    "Region": 7,
    "Available": "n",
    "year1": "",
@@ -3883,9 +3625,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "Nett Lake School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Nett Lake School District",
    "Region": 7,
    "Available": "n",
    "year1": "",
@@ -3898,9 +3639,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "North Branch Area School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "North Branch Area School District",
    "Region": 7,
    "Available": "n",
    "year1": "",
@@ -3913,9 +3653,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "Northern Lights Special Education Cooperative",
+  }},
+ {"type": "Feature", "properties": { "Name": "Northern Lights Special Education Cooperative",
    "Region": 7,
    "Available": "n",
    "year1": "",
@@ -3928,9 +3667,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "Proctor School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Proctor School District",
    "Region": 7,
    "Available": "y",
    "year1": "37081",
@@ -3943,9 +3681,8 @@
    "SI": "y +100",
    "SI1": "",
    "FI": "NO Single Rate +3600"
- },
- {
-   "Name": "S. Koochiching-Rainy River School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "S. Koochiching-Rainy River School District",
    "Region": 7,
    "Available": "n",
    "year1": "",
@@ -3958,9 +3695,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "St. Louis County School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "St. Louis County School District",
    "Region": 7,
    "Available": "y",
    "year1": "39987",
@@ -3973,9 +3709,8 @@
    "SI": "NO 92.5%",
    "SI1": "",
    "FI": "NO 92.5%"
- },
- {
-   "Name": "Virginia School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Virginia School District",
    "Region": 7,
    "Available": "y",
    "year1": "40233",
@@ -3988,9 +3723,8 @@
    "SI": "NO 95% minus 300",
    "SI1": "",
    "FI": "NO 70% minus 300"
- },
- {
-   "Name": "Wrenshall School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Wrenshall School District",
    "Region": 7,
    "Available": "n",
    "year1": "",
@@ -4003,9 +3737,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "Ada-Borup School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Ada-Borup School District",
    "Region": 8,
    "Available": "y",
    "year1": "37394",
@@ -4018,9 +3751,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "Area Special Education Cooperative",
+  }},
+ {"type": "Feature", "properties": { "Name": "Area Special Education Cooperative",
    "Region": 8,
    "Available": "n",
    "year1": "",
@@ -4033,9 +3765,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "Badger School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Badger School District",
    "Region": 8,
    "Available": "y",
    "year1": "38424",
@@ -4048,9 +3779,8 @@
    "SI": "4100",
    "SI1": "",
    "FI": "8100"
- },
- {
-   "Name": "Bagley School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Bagley School District",
    "Region": 8,
    "Available": "y",
    "year1": "37030",
@@ -4063,9 +3793,8 @@
    "SI": "7200",
    "SI1": "",
    "FI": "10800"
- },
- {
-   "Name": "Bemidji Area School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Bemidji Area School District",
    "Region": 8,
    "Available": "y",
    "year1": "36784",
@@ -4078,9 +3807,8 @@
    "SI": "9675",
    "SI1": "",
    "FI": "9675"
- },
- {
-   "Name": "Bemidji Regional Interdistrict Council",
+  }},
+ {"type": "Feature", "properties": { "Name": "Bemidji Regional Interdistrict Council",
    "Region": 8,
    "Available": "n",
    "year1": "",
@@ -4093,9 +3821,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "Blackduck School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Blackduck School District",
    "Region": 8,
    "Available": "y",
    "year1": "36795",
@@ -4108,9 +3835,8 @@
    "SI": "8256",
    "SI1": "",
    "FI": "8256"
- },
- {
-   "Name": "Clearbrook-Gonvick School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Clearbrook-Gonvick School District",
    "Region": 8,
    "Available": "y",
    "year1": "36460",
@@ -4123,9 +3849,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "Climax-Shelly School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Climax-Shelly School District",
    "Region": 8,
    "Available": "n",
    "year1": "",
@@ -4138,9 +3863,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "Crookston School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Crookston School District",
    "Region": 8,
    "Available": "y",
    "year1": "36284",
@@ -4153,9 +3877,8 @@
    "SI": "y",
    "SI1": "",
    "FI": "NO 70%"
- },
- {
-   "Name": "East Grand Forks School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "East Grand Forks School District",
    "Region": 8,
    "Available": "y",
    "year1": "34647",
@@ -4168,9 +3891,8 @@
    "SI": "7829.76",
    "SI1": "",
    "FI": "7829.76"
- },
- {
-   "Name": "Fertile-Beltrami School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Fertile-Beltrami School District",
    "Region": 8,
    "Available": "n",
    "year1": "",
@@ -4183,9 +3905,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "Fisher School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Fisher School District",
    "Region": 8,
    "Available": "y",
    "year1": "34630",
@@ -4198,9 +3919,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "Fosston School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Fosston School District",
    "Region": 8,
    "Available": "n",
    "year1": "",
@@ -4213,9 +3933,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "Grygla-Gatzke School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Grygla-Gatzke School District",
    "Region": 8,
    "Available": "y",
    "year1": "37632",
@@ -4228,9 +3947,8 @@
    "SI": "7000",
    "SI1": "",
    "FI": "7000"
- },
- {
-   "Name": "Kelliher School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Kelliher School District",
    "Region": 8,
    "Available": "y",
    "year1": "39145",
@@ -4243,9 +3961,8 @@
    "SI": "7356",
    "SI1": "",
    "FI": "7356"
- },
- {
-   "Name": "Kittson Central School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Kittson Central School District",
    "Region": 8,
    "Available": "y",
    "year1": "39143",
@@ -4258,9 +3975,8 @@
    "SI": "9812.20",
    "SI1": "",
    "FI": "9812.20"
- },
- {
-   "Name": "Lake of the Woods School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Lake of the Woods School District",
    "Region": 8,
    "Available": "y",
    "year1": "34742",
@@ -4273,9 +3989,8 @@
    "SI": "6133.43",
    "SI1": "",
    "FI": "13997.34"
- },
- {
-   "Name": "Lancaster School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Lancaster School District",
    "Region": 8,
    "Available": "y",
    "year1": "38230",
@@ -4288,9 +4003,8 @@
    "SI": "8562",
    "SI1": "",
    "FI": "8662"
- },
- {
-   "Name": "Laporte School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Laporte School District",
    "Region": 8,
    "Available": "y",
    "year1": "36517",
@@ -4303,9 +4017,8 @@
    "SI": "6900",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "Mahnomen School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Mahnomen School District",
    "Region": 8,
    "Available": "y",
    "year1": "41806",
@@ -4318,9 +4031,8 @@
    "SI": "7718",
    "SI1": "",
    "FI": "10410.40"
- },
- {
-   "Name": "Marshall County Central School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Marshall County Central School District",
    "Region": 8,
    "Available": "y",
    "year1": "36164",
@@ -4333,9 +4045,8 @@
    "SI": "8850",
    "SI1": "",
    "FI": "14478"
- },
- {
-   "Name": "Nevis School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Nevis School District",
    "Region": 8,
    "Available": "y",
    "year1": "35840",
@@ -4348,9 +4059,8 @@
    "SI": "y",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "Norman County East School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Norman County East School District",
    "Region": 8,
    "Available": "y",
    "year1": "36586",
@@ -4363,9 +4073,8 @@
    "SI": "7300",
    "SI1": "",
    "FI": "7300"
- },
- {
-   "Name": "Norman County West School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Norman County West School District",
    "Region": 8,
    "Available": "y",
    "year1": "36922",
@@ -4378,9 +4087,8 @@
    "SI": "4925",
    "SI1": "",
    "FI": "4925"
- },
- {
-   "Name": "Northwest Regional Interdistrict",
+  }},
+ {"type": "Feature", "properties": { "Name": "Northwest Regional Interdistrict",
    "Region": 8,
    "Available": "n",
    "year1": "",
@@ -4393,9 +4101,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "NW Service Cooperative",
+  }},
+ {"type": "Feature", "properties": { "Name": "NW Service Cooperative",
    "Region": 8,
    "Available": "n",
    "year1": "",
@@ -4408,9 +4115,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "Red Lake County Central",
+  }},
+ {"type": "Feature", "properties": { "Name": "Red Lake County Central",
    "Region": 8,
    "Available": "y",
    "year1": "37657",
@@ -4423,9 +4129,8 @@
    "SI": "6500",
    "SI1": "",
    "FI": "6500"
- },
- {
-   "Name": "Park Rapids Area School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Park Rapids Area School District",
    "Region": 8,
    "Available": "y",
    "year1": "34037",
@@ -4438,9 +4143,8 @@
    "SI": "y",
    "SI1": "",
    "FI": "n"
- },
- {
-   "Name": "PAWN Spec Education Cooperative",
+  }},
+ {"type": "Feature", "properties": { "Name": "PAWN Spec Education Cooperative",
    "Region": 8,
    "Available": "n",
    "year1": "",
@@ -4453,9 +4157,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "Pine to Prairie Cooperative",
+  }},
+ {"type": "Feature", "properties": { "Name": "Pine to Prairie Cooperative",
    "Region": 8,
    "Available": "n",
    "year1": "",
@@ -4468,9 +4171,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "Red Lake Falls School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Red Lake Falls School District",
    "Region": 8,
    "Available": "y",
    "year1": "37203",
@@ -4483,9 +4185,8 @@
    "SI": "8700",
    "SI1": "",
    "FI": "11400"
- },
- {
-   "Name": "Red Lake School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Red Lake School District",
    "Region": 8,
    "Available": "y",
    "year1": "42563",
@@ -4498,9 +4199,8 @@
    "SI": "y",
    "SI1": "",
    "FI": "y"
- },
- {
-   "Name": "Roseau School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Roseau School District",
    "Region": 8,
    "Available": "y",
    "year1": "36649",
@@ -4513,9 +4213,8 @@
    "SI": "7000",
    "SI1": "",
    "FI": "7000"
- },
- {
-   "Name": "Stephen-Argyle School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Stephen-Argyle School District",
    "Region": 8,
    "Available": "y",
    "year1": "37950",
@@ -4528,9 +4227,8 @@
    "SI": "6000",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "Thief River Falls School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Thief River Falls School District",
    "Region": 8,
    "Available": "y",
    "year1": "35500",
@@ -4543,9 +4241,8 @@
    "SI": "6888",
    "SI1": "",
    "FI": "6888"
- },
- {
-   "Name": "Tri-County School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Tri-County School District",
    "Region": 8,
    "Available": "n",
    "year1": "",
@@ -4558,9 +4255,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "Warren-Alvarado-Oslo School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Warren-Alvarado-Oslo School District",
    "Region": 8,
    "Available": "y",
    "year1": "36900",
@@ -4573,9 +4269,8 @@
    "SI": "14000",
    "SI1": "",
    "FI": "14000"
- },
- {
-   "Name": "Warroad School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Warroad School District",
    "Region": 8,
    "Available": "y",
    "year1": "35348",
@@ -4588,9 +4283,8 @@
    "SI": "5629",
    "SI1": "",
    "FI": "11841"
- },
- {
-   "Name": "Waubun-Ogema-White Earth School District",
+  }},
+ {"type": "Feature", "properties": { "Name": "Waubun-Ogema-White Earth School District",
    "Region": 8,
    "Available": "y",
    "year1": "39925",
@@ -4603,9 +4297,8 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- },
- {
-   "Name": "Win-E-Mac Schools (McIntosh-Winger-Erskine)",
+  }},
+ {"type": "Feature", "properties": { "Name": "Win-E-Mac Schools (McIntosh-Winger-Erskine)",
    "Region": 8,
    "Available": "y",
    "year1": "37286",
@@ -4618,5 +4311,5 @@
    "SI": "",
    "SI1": "",
    "FI": ""
- }
+ }}
 ]
